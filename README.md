@@ -7,6 +7,10 @@
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>
+  <li>node.js</li>
+  <li>JavaScript</li>
+  <li>Python</li>
+  <li>Git</li>
 </ul>
 
 ## 📞 Contact:
