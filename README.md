@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello World! 🌎
+### My name is leonardo, I'm currently studying about front-end. I want to know a little about the web area and then go to the Android development area! \o/
+<hr>
 
-<!--
-**leosrostirolla/leosrostirolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🍪 Skills:
 
-Here are some ideas to get you started:
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📞 Contact:
+
+<ul>
+  <li>Email: <a href="mailto:leosrostirolla.dev@hotmail.com">leosrostirolla.dev@hotmail.com</a></li>
+  <li>Discord: <a href="https://discord.com/users/958742794275541072">leosrostirolla#2979</a></li>
